@@ -64,6 +64,17 @@ The dashboard also includes **date filters** to allow analysis over the selected
 
 ### Screenshots
 
+<img width="1375" height="770" alt="1" src="https://github.com/user-attachments/assets/55181f5f-47b4-4aa5-b74f-f99f535fbda1" />
+
+<img width="1372" height="770" alt="2" src="https://github.com/user-attachments/assets/06152ea3-b7b3-44e6-9cfc-13421db98416" />
+
+<img width="1370" height="767" alt="3" src="https://github.com/user-attachments/assets/68d94b5c-1314-4b56-83d8-47b944807879" />
+
+<img width="1372" height="772" alt="5" src="https://github.com/user-attachments/assets/d7e69fcb-c0e1-48d5-83ca-ae6df8c920cf" />
+
+<img width="1376" height="767" alt="4" src="https://github.com/user-attachments/assets/03c503f3-e606-4a7d-9231-f4a0387d3dad" />
+
+
 ## 🔄 Project Workflow
 
 ```text
